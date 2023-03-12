@@ -1,0 +1,17 @@
+{
+    "gates": [
+        {"ID": "H"},
+        {"ID": "H"},
+        {"ID": "H"},
+        {
+            "rotation": "Pi",
+            "ID": "RZ"
+        },
+        {"ID": "Y"},
+        {
+            "rotation": "Pi/4",
+            "ID": "TDag"
+        }
+    ],
+    "name": "My Quantum Circuit"
+}
